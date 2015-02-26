@@ -1,7 +1,7 @@
 package com.chan.stanley;
 
 public class Exercise1a {
-
+	private int a;
 	public static void main (String[] args){
 		int x = 3;
 				while (x > 0) {

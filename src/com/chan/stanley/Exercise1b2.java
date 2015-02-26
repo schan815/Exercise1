@@ -1,7 +1,7 @@
 package com.chan.stanley;
 
 public class Exercise1b2 { //exercise was missing the class
-
+	private int b;
 	public static void main(String[]args){
 	int x = 5;
 	while(x > 1){
